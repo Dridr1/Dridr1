@@ -1,5 +1,5 @@
 ### Hi there 👋
-####I'm Adriano, but you can call me Dri or Dridri. I'm 21 and live in Brasília. 
+#### I'm Adriano, but you can call me Dri or Dridri. I'm 21 and live in Brasília. 
 I can speake native Brazilian Portuguese and comunicate in English and basic Deutsch.
 
 - I'm currently studying Software Engineering at University of Brasilia
