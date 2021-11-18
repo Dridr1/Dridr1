@@ -24,11 +24,11 @@
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="VSCode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
+<br/><br/>
+
+ ---
 
 
-</br>
-
----
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256016.png?token=exp=1637115940~hmac=4197f7c900a308e2b166aa9382e549d0" />][linkedin]
