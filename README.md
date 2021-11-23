@@ -1,4 +1,4 @@
-## Hi there, I'm Adriano - aka Dridri or just Dri  
+## Hello there, I'm Adriano - aka Dridri or just Dri  
 
 ### About me:
 
