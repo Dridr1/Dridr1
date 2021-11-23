@@ -4,7 +4,7 @@
 
 * 💻 Software Engineering studant at University of Brasília
 * 🌐 Web Development studant at Driven Education
-* Love pop culture , music 🎸 and games 🎮
+* Love pop culture, music 🎸 and games 🎮
 * I'm using this profile to share college, bootcamp and personal projects
 * Pronoums [he/his]
 
