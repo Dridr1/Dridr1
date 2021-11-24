@@ -14,6 +14,8 @@
 * Deutsch (basic)
 
 ## Languages and Tools
+<div style="text-align:center;">
+
 ### Front-end
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
@@ -46,9 +48,10 @@
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 
-### Bonus: the best Linux Desktop Environment
+### The best Linux Desktop Environment
 ![GNOME](https://img.shields.io/static/v1?style=for-the-badge&message=GNOME&color=4A86CF&logo=GNOME&logoColor=FFFFFF&label=)
 <br/><br/>
+</div>
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Dridr1&show_icons=true&theme=dracula)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dridr1&theme=dracula)
