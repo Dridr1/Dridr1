@@ -14,7 +14,6 @@
 * Deutsch (basic)
 
 ## Languages and Tools
-<div align = "center">
 
 ### Front-end
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
@@ -49,8 +48,6 @@
 
 ### The best Linux Desktop Environment
 ![GNOME](https://img.shields.io/static/v1?style=for-the-badge&message=GNOME&color=4A86CF&logo=GNOME&logoColor=FFFFFF&label=)
-
-</div>
 
 ## GitHub Stats
 
