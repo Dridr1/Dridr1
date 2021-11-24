@@ -1,10 +1,12 @@
 # Hello there, I'm Adriano - aka Dridri or just Dri  
 
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Dridr1&show_icons=true&theme=dracula)
+
 ## About me
 
 * 💻 Software Engineering studant at University of Brasília
 * 🌐 Web Development studant at Driven Education
-* Love pop culture, music 🎸 and games 🎮
+* Love pop culture, music 🎸, games 🎮 and distro hopping! 
 * I'm using this profile to share college, bootcamp and personal projects
 * Pronoums [he/his]
 
@@ -48,13 +50,6 @@
 
 ### The best Linux Desktop Environment
 ![GNOME](https://img.shields.io/static/v1?style=for-the-badge&message=GNOME&color=4A86CF&logo=GNOME&logoColor=FFFFFF&label=)
-
-## GitHub Stats
-
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Dridr1&show_icons=true&theme=dracula)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dridr1&theme=dracula)
-
-<br/>
 
  ---
 
