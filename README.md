@@ -14,7 +14,7 @@
 * Deutsch (basic)
 
 ## Languages and Tools
-<div style="text-align:center;">
+<div align = "center">
 
 ### Front-end
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
@@ -50,13 +50,16 @@
 
 ### The best Linux Desktop Environment
 ![GNOME](https://img.shields.io/static/v1?style=for-the-badge&message=GNOME&color=4A86CF&logo=GNOME&logoColor=FFFFFF&label=)
-<br/><br/>
+
 </div>
 
+## GitHub Stats
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Dridr1&show_icons=true&theme=dracula)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dridr1&theme=dracula)
 <br/>
 
+
+<br/><br/>
  ---
 
 
