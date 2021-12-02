@@ -6,6 +6,7 @@
 
 * 💻 Software Engineering studant at University of Brasília
 * 🌐 Web Development studant at Driven Education
+* I'm currently learning React JS :D
 * Love pop culture, music 🎸, games 🎮 and distro hopping! 
 * I'm using this profile to share college, bootcamp and personal projects
 * Pronoums [he/his]
