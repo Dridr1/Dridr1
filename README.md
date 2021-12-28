@@ -1,20 +1,20 @@
 # Hello there, I'm Adriano - aka Dridri or just Dri  
-![Night Coding](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif)
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Dridr1&show_icons=true&theme=dracula" width="440em"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dridr1&layout=compact&theme=dracula" width="440em" />
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Dridr1&show_icons=true&theme=dracula" width="440em" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dridr1&layout=compact&theme=dracula" width="440em" height="180em"/>
 
 ## About me
 
-* 💻 Software Engineering studant at University of Brasília
-* 🌐 Web Development studant at Driven Education
-* I'm currently learning React JS :D
-* Love pop culture, music 🎸, games 🎮 and distro hopping! 
-* I'm using this profile to share college, bootcamp and personal projects
-* Pronoums [he/his]
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height="160em"/>
+<ul>
+    <li>💻 Software Engineering studant at University of Brasília</li>
+    <li>🌐 Web Development studant at Driven Education</li>
+    <li>I'm currently learning React JS :D</li>
+    <li>Love pop culture, music 🎸, games 🎮 and distro hopping! </li>
+    <li>I'm using this profile to share college, bootcamp and personal projects</li>
+    <li>Pronoums [he/his]</li>
+</ul>
+
 
 ## Languages you can communicate with me
 * Brazilian Portuguese (native)
