@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height="160em"/>
 <ul>
-    <li>💻 Software Engineering studant at University of Brasília</li>
+    <li>💻 Software Engineering student at University of Brasília</li>
     <li>🌐 Web Development studant at Driven Education</li>
     <li>I'm currently learning React JS :D</li>
     <li>Love pop culture, music 🎸, games 🎮 and distro hopping! </li>
