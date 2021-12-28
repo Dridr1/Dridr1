@@ -1,6 +1,11 @@
 # Hello there, I'm Adriano - aka Dridri or just Dri  
+![Night Coding](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif)
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Dridr1&show_icons=true&theme=dracula)
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Dridr1&show_icons=true&theme=dracula" width="440em"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dridr1&layout=compact&theme=dracula" width="440em" />
+</p>
+
 
 ## About me
 
