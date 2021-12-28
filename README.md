@@ -10,7 +10,7 @@
     <li>💻 Software Engineering student at University of Brasília</li>
     <li>🌐 Web Development student at Driven Education</li>
     <li>I'm currently learning React JS :D</li>
-    <li>Love pop culture, music 🎸, games 🎮 and distro hopping! </li>
+    <li>Love pop culture, music 🎸, games 🎮 and distro hopping (Currently on Fedora 35 and loving it!) </li>
     <li>I'm using this profile to share college, bootcamp and personal projects</li>
     <li>Pronoums [he/his]</li>
 </ul>
@@ -27,16 +27,10 @@
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+![Create React App](https://img.shields.io/static/v1?style=for-the-badge&message=Create+React+App&color=222222&logo=Create+React+App&logoColor=09D3AC&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![React Router](https://img.shields.io/static/v1?style=for-the-badge&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label=)
 
-### Back-end
-![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
-![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
-
-### Data Science
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=)
-![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
-![Plotly](https://img.shields.io/static/v1?style=for-the-badge&message=Plotly&color=3F4F75&logo=Plotly&logoColor=FFFFFF&label=)
 
 ### Productivity
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
@@ -53,9 +47,6 @@
 ### Version control
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
-
-### The best Linux Desktop Environment
-![GNOME](https://img.shields.io/static/v1?style=for-the-badge&message=GNOME&color=4A86CF&logo=GNOME&logoColor=FFFFFF&label=)
 
  ---
 
