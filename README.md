@@ -9,7 +9,8 @@
 <ul>
     <li>💻 Software Engineering student at University of Brasília</li>
     <li>🌐 Web Development student at Driven Education</li>
-    <li>I'm currently learning React JS :D</li>
+    <li>Front-end developer</li>
+    <li>I'm currently learning back-end in JS</li>
     <li>Love pop culture, music 🎸, games 🎮 and distro hopping (Currently on Fedora 35 and loving it!) </li>
     <li>I'm using this profile to share college, bootcamp and personal projects</li>
     <li>Pronoums [he/his]</li>
