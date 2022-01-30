@@ -1,7 +1,7 @@
 # Hello there, I'm Adriano - aka Dridri or just Dri  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dridr1&show_icons=true&theme=bear&hide_border=true" width="390em" height="180em" align="left" border="none"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dridr1&layout=compact&theme=bear&hide_border=true" width="390em" height="180em" border="none" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dridr1&show_icons=true&theme=bear&hide_border=true" width="360em" height="180em" align="left" border="none"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dridr1&layout=compact&theme=bear&hide_border=true" width="301em" height="180em" border="none" />
 
 ## About me
 
