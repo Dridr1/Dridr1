@@ -5,7 +5,7 @@
 
 ## About me
 
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height="160em"/>
+<img src="https://media4.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=790b7611d543fea2a452096792dd360fd366bae4c05c154c&rid=giphy.gif&ct=s" align="right" height="200em"/>
 <ul>
     <li>💻 Software Engineering student at University of Brasília</li>
     <li>🌐 Web Development student at Driven Education</li>
