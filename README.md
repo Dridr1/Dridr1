@@ -5,13 +5,13 @@
 
 ## About me
 
-<img src="https://media4.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=790b7611d543fea2a452096792dd360fd366bae4c05c154c&rid=giphy.gif&ct=s" align="right" height="200em"/>
+<img src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/coding_pixels.gif" align="right" height="140em"/>
 <ul>
     <li>💻 Software Engineering student at University of Brasília</li>
     <li>🌐 Web Development student at Driven Education</li>
-    <li>Front-end developer</li>
-    <li>I'm currently learning back-end in Node.js</li>
-    <li>Love pop culture, music 🎸, games 🎮 and distro hopping (Currently on Fedora 35 and loving it!) </li>
+    <li>Full-Stack Web Developer</li>
+    <li>I'm currently learning Software Design and Architecture and TypeScript</li>
+    <li>Love pop culture, music 🎸, games 🎮 and distro hopping (Currently on POP!_OS 20.04 and anxiously waiting for Fedora 36!) </li>
     <li>I'm using this profile to share college, bootcamp and personal projects</li>
     <li>Pronoums [he/his]</li>
 </ul>
@@ -32,11 +32,20 @@
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![React Router](https://img.shields.io/static/v1?style=for-the-badge&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label=)
 
-### Back-end
+### Back-end & Databases
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
+![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=) 
 ![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)
 ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+![Prisma](https://img.shields.io/static/v1?style=for-the-badge&message=Prisma&color=2D3748&logo=Prisma&logoColor=FFFFFF&label=)
+
+
+### Deploy
+![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
+![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=)
+
 
 
 ### Productivity
