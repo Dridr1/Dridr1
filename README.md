@@ -11,7 +11,7 @@
     <li>🌐 Web Development student at Driven Education</li>
     <li>Full-Stack Web Developer</li>
     <li>I'm currently learning Software Design and Architecture and TypeScript</li>
-    <li>Love pop culture, music 🎸, games 🎮 and distro hopping (Currently on POP!_OS 20.04 and anxiously waiting for Fedora 36!) </li>
+    <li>Love pop culture, music 🎸, games 🎮 and distro hopping (Currently on Ubuntu 22.04!) </li>
     <li>I'm using this profile to share college, bootcamp and personal projects</li>
     <li>Pronoums [he/his]</li>
 </ul>
