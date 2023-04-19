@@ -8,7 +8,7 @@
 <img src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/coding_pixels.gif" align="right" height="140em"/>
 <ul>
     <li>💻 Software Engineering student at University of Brasília</li>
-    <li>🌐 Full-Stack Web Developer 🌐</li>
+    <li>🌐 Full-Stack Web Developer @ DAFITI 🌐</li>
     <li>I'm currently learning Dart and aiming on mobile development, it seems quite funny btw</li>
     <li>Love pop culture, music 🎸, games 🎮 and distro hopping (Currently on Ubuntu 22.04!) </li>
     <li>I'm using this profile to share college, bootcamp and personal projects</li>
