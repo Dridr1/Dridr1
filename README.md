@@ -7,8 +7,8 @@
 
 <img src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/coding_pixels.gif" align="right" height="140em"/>
 <ul>
-    <li>💻 Software Engineering student at University of Brasília</li>
-    <li>🌐 Full-Stack Developer @ DAFITI 🌐</li>
+    <li>💻 Software Engineering student</li>
+    <li>🌐 Full-Stack Developer 🌐</li>
     <li>I'm using this profile to share personal and college projects</li>
     <li>Pronoums [he/his]</li>
 </ul>
